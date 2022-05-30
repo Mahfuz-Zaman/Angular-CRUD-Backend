@@ -1,0 +1,7 @@
+PUT   http://localhost:3000/edit-user
+
+content-type: application/json
+
+{
+    "id": "ksdkh", "name": 'Sojol vai', "phoneNo": '01731079193' 
+}
